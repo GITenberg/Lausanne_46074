@@ -24,6 +24,8 @@ creator:
 description: 'Analyse: Evoque la présence sur les rives du Léman de personnalités
   telles E. Gibbon, I. de Montolieu, le Dr Tissot, B. de Constant, A. Vinet ou encore
   J. Olivier.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46074#Lausanne
 gutenberg_issued: '2014-06-23'
 gutenberg_type: Text
 identifiers:
